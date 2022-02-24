@@ -15,6 +15,8 @@ public class RsvpController {
     @Autowired
     RsvpRepository repo;
 
+    // adding comment to trigger pipeline
+
     @RequestMapping(value = "/rsvps", method = RequestMethod.POST)
     @ResponseStatus(HttpStatus.CREATED)
     public Rsvp createRsvp(@RequestBody Rsvp rsvp) {
