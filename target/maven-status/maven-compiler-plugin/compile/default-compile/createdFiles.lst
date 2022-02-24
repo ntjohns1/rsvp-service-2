@@ -1,0 +1,4 @@
+com/trilogyed/rsvp/RsvpServiceApplication.class
+com/trilogyed/rsvp/repository/RsvpRepository.class
+com/trilogyed/rsvp/model/Rsvp.class
+com/trilogyed/rsvp/controller/RsvpController.class
